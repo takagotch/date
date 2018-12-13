@@ -7,9 +7,14 @@ https://github.com/MatthewMueller/date
 https://github.com/rickb777/date
 
 ```
+npm install
+make test
+
+npm install date.js
 ```
 
 ```
+date('10 minutes from now')
 ```
 
 ```
