@@ -15,6 +15,7 @@ npm install date.js
 
 ```
 date('10 minutes from now')
+date('in 5 hours')
 ```
 
 ```
