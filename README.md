@@ -8,24 +8,24 @@ https://github.com/rickb777/date
 
 https://godoc.org/github.com/rickb777/date
 
-```
+```sh
 npm install
 make test
 
 npm install date.js
 ```
 
-```
+```js
 date('10 minutes from now')
 date('in 5 hours')
 ```
 
-```
+```sh
 go get -u github.com/rickb777/date
 dep ensure -add github.com/rickb777/date
 ```
 
-```
+```go
 const (
   ISO8601 = "2006-01-02"
   ISO8601B = "20060102"
